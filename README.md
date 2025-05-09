@@ -1,2 +1,3 @@
 # Facial-Recognition
 A pretty simple facial recognition
+A Python-based facial recognition application that allows users to register faces with personal information and then identify those individuals in real-time using a webcam. The system uses OpenCV and MediaPipe for face detection and feature extraction, storing data in a local database for easy management. Users can add multiple images of each person from different angles to improve recognition accuracy, and the command-line interface provides simple options for adding, recognizing, listing, updating, and deleting people from the database.
